@@ -1,0 +1,11 @@
+{
+    "projects": [
+      {
+        "name": "360 VR Video",
+        "description": "An immersive virtual reality experience where users can watch 360 video and interact with it. With the power of hand tracking, you can control the video through the video player.",
+        "video": "src/assets/360 XR/360 VR Video.mp4"
+      }
+     
+    ]
+  }
+  
